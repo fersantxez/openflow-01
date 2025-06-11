@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1749658247525,
+    "description" : "mysql connector with basic CDC to dbsim",
+    "identifier" : "mysql-01",
+    "lastModifiedTimestamp" : 1749658247525,
+    "name" : "mysql-01",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
