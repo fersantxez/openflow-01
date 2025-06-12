@@ -647,7 +647,7 @@
           "name" : "database-driver-locations",
           "resourceDefinition" : {
             "cardinality" : "MULTIPLE",
-            "resourceTypes" : [ "URL", "FILE", "DIRECTORY" ]
+            "resourceTypes" : [ "DIRECTORY", "FILE", "URL" ]
           },
           "sensitive" : false
         },
@@ -3920,7 +3920,7 @@
               "name" : "JDBC Driver Location",
               "resourceDefinition" : {
                 "cardinality" : "MULTIPLE",
-                "resourceTypes" : [ "URL", "FILE", "DIRECTORY" ]
+                "resourceTypes" : [ "DIRECTORY", "FILE", "URL" ]
               },
               "sensitive" : false
             },
@@ -5414,7 +5414,7 @@
         "name" : "Read MySQL CDC Stream",
         "penaltyDuration" : "30 sec",
         "position" : {
-          "x" : -344.0,
+          "x" : -272.0,
           "y" : -720.0
         },
         "properties" : {
@@ -5440,7 +5440,7 @@
             "name" : "JDBC Driver Location",
             "resourceDefinition" : {
               "cardinality" : "MULTIPLE",
-              "resourceTypes" : [ "URL", "FILE", "DIRECTORY" ]
+              "resourceTypes" : [ "DIRECTORY", "FILE", "URL" ]
             },
             "sensitive" : false
           },
@@ -7926,6 +7926,6 @@
   "snapshotMetadata" : {
     "author" : "FERNANDO.SANCHEZ@SNOWFLAKE.COM",
     "flowIdentifier" : "mysql-01",
-    "timestamp" : 1749665134235
+    "timestamp" : 1749756157445
   }
 }
