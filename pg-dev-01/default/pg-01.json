@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1749743719025,
+    "description" : "Postgres to DBSIM",
+    "identifier" : "pg-01",
+    "lastModifiedTimestamp" : 1749743719025,
+    "name" : "pg-01",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
