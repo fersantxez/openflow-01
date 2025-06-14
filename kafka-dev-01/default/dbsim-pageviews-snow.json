@@ -1,0 +1,11 @@
+{
+  "flow" : {
+    "createdTimestamp" : 1749861946607,
+    "description" : "From topic \"pageviews\" in host dbsim to DB.SCHEMA.TABLE: FER_KAFKA.DBSIM.PAGEVIEWS ",
+    "identifier" : "dbsim-pageviews-snow",
+    "lastModifiedTimestamp" : 1749861946607,
+    "name" : "dbsim-pageviews-snow",
+    "versionCount" : 0
+  },
+  "latest" : false
+}
